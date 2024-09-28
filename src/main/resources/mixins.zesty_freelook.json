@@ -1,0 +1,13 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.7",
+  "package": "org.polyfrost.zesty_freelook.mixin",
+  "refmap": "mixins.${id}.refmap.json",
+  "injectors": {
+    "maxShiftBy": 5
+  },
+  "mixins": [
+    "MixinEntityRenderer"
+  ],
+  "verbose": true
+}

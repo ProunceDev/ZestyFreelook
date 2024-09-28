@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${id}",
+    "name": "${name}",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcVersionStr}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "ProunceDev"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
